@@ -1,7 +1,6 @@
-> 🪐 Hello world!
-- 🙋‍♂️ I’m @DiFalls, one that will surprise everyone with the tecnology!
-
-> 🔎 About me
+**> 🪐 Hello world!**
+- 🙋‍♂️ I’m @DiFalls!
+**> 🔎 About me**
 - 📚 I'm a data scientist researcher and a pharmacy undergraduated in Universidade de Fortaleza,
 Dev Full Stack Beginner in Prefeitura de Fortaleza and a well of curiosity since I was born;
 - ⚡ Fun fact: In my free time usually I'm a perfurmist, electronics technician and a lot of things, I'm always learn new skills and reinforce what I've done.
