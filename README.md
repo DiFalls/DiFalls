@@ -9,14 +9,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Data+Science+Researcher+at+UECE+%F0%9F%94%AC;Pharmacy+Graduated+at+UNIFOR+%F0%9F%92%8A;Tech+Teacher+at+UNIFOR+%F0%9F%8E%93;Full+Stack+Dev+at+Prefeitura+de+Fortaleza+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
-```
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=difalls&label=VISUALIZA%C3%87%C3%95ES&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/difalls?label=AMIGOS&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/difalls?label=ESTRELAS&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
-```
-
+<div align="center">
+  <a href="https://github.com/Difalls"><img src="https://img.shields.io/badge/GitHub-Difalls-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+  <a href="mailto:pedrov@edu.unifor.br"><img src="https://img.shields.io/badge/Email-pedrov@edu.unifor.br-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+  <a href="https://www.linkedin.com/in/pedrovictors/"><img src="https://img.shields.io/badge/LinkedIn-Pedrovictors-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+  <br>
+  <a href="https://www.instagram.com/pedro.space/"><img src="https://img.shields.io/badge/Instagram-Pedro.space-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+  <a href="https://discord.com/users/pedrov1"><img src="https://img.shields.io/badge/Discord-pedrov1-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&color=5865F2" /></a>
 </div>
 
 ---
@@ -37,19 +38,25 @@
 <div align="center">
 
   <!-- PROJECTS_START -->
-
+<div align="center">
   <a href="https://github.com/DiFalls/aula_1_MIT">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=aula_1_MIT&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=aula_1_MIT&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DiFalls/DevWebZeroFreq">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZeroFreq&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" />
-  </a><br/><br/>
-  <a href="https://github.com/DiFalls/DevWebZero">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZero&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZeroFreq&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
   </a>
+  
+  <br><br>
+  
+  <a href="https://github.com/DiFalls/DevWebZero">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZero&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DiFalls/turismo-dashboard-v5">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=turismo-dashboard-v5&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" />
-  </a><br/><br/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=turismo-dashboard-v5&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
+  </a>
+</div>
 <!-- PROJECTS_END -->
   
 </div>
@@ -96,17 +103,7 @@
 
 ---
 
-## 📡 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/Difalls"><img src="https://img.shields.io/badge/GitHub-Difalls-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:pedrov@edu.unifor.br"><img src="https://img.shields.io/badge/Email-pedrov@edu.unifor.br-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/pedrovictors/"><img src="https://img.shields.io/badge/LinkedIn-Pedrovictors-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/pedro.space/"><img src="https://img.shields.io/badge/Instagram-Pedro.space-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
-<a href="https://discord.com/users/pedrov1"><img src="https://img.shields.io/badge/Discord-pedrov1-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&color=5865F2" /></a>
-
-<br/><br/>
+<br/>
 
 <!-- NOVO RODAPÉ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Vamos+construir+algo+incr%C3%ADvel+juntos!&fontSize=20&fontColor=00FF41&animation=twinkling&fontAlignY=75" width="100%"/>
