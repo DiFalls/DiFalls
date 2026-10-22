@@ -2,12 +2,14 @@ name: Update Projects in README
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Executa a cada 6 horas
-  workflow_dispatch:        # Permite execução manual
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:        # <-- ADICIONE ESTE BLOCO
+      contents: write   # <-- ISSO CONCEDE PERMISSÃO DE ESCRITA
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -23,7 +25,7 @@ jobs:
         run: python update_readme.py
 
       - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add README.md && git commit -m "chore: auto-update projects section" && git push)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update projects section"
+          file_pattern: README.md
