@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  <!-- COLOQUE SEUS REPOSITÓRIOS REAIS AQUI -->
+  <!-- PROJECTS_START -->
   <a href="https://github.com/Difalls/SEU_REPOSITORIO_MAIS_RECENTE_AQUI">
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=difalls&repo=SEU_REPOSITORIO_MAIS_RECENTE_AQUI&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" />
   </a>
@@ -48,7 +48,8 @@
   <a href="https://github.com/Difalls/SEU_QUARTO_REPOSITORIO_AQUI">
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=difalls&repo=SEU_QUARTO_REPOSITORIO_AQUI&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=FF00E5" />
   </a>
-
+  <!-- PROJECTS_END -->
+  
 </div>
 
 ---
