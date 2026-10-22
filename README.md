@@ -35,7 +35,20 @@
 <div align="center">
 
   <!-- PROJECTS_START -->
-  <!-- PROJECTS_END -->
+
+  <a href="https://github.com/DiFalls/aula_1_MIT">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=aula_1_MIT&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" />
+  </a>
+  <a href="https://github.com/DiFalls/DevWebZeroFreq">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZeroFreq&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" />
+  </a><br/><br/>
+  <a href="https://github.com/DiFalls/DevWebZero">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZero&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" />
+  </a>
+  <a href="https://github.com/DiFalls/turismo-dashboard-v5">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=turismo-dashboard-v5&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" />
+  </a><br/><br/>
+<!-- PROJECTS_END -->
   
 </div>
 
