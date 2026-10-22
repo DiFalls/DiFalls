@@ -9,11 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=Data+Science+Researcher+at+UECE+%F0%9F%94%AC;Pharmacy+Graduated+at+UNIFOR+%F0%9F%92%8A;Tech+Teacher+at+UNIFOR+%F0%9F%8E%93;Full+Stack+Dev+at+Prefeitura+de+Fortaleza+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
+```
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=difalls&label=VISUALIZA%C3%87%C3%95ES&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
 <img src="https://img.shields.io/github/followers/difalls?label=AMIGOS&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
 <img src="https://img.shields.io/github/stars/difalls?label=ESTRELAS&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
+```
 
 </div>
 
