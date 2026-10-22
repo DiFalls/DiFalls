@@ -38,25 +38,19 @@
 <div align="center">
 
   <!-- PROJECTS_START -->
-<div align="center">
+
   <a href="https://github.com/DiFalls/aula_1_MIT">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=aula_1_MIT&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=aula_1_MIT&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DiFalls/DevWebZeroFreq">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZeroFreq&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
-  </a>
-  
-  <br><br>
-  
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZeroFreq&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" />
+  </a><br/><br/>
   <a href="https://github.com/DiFalls/DevWebZero">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZero&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=DevWebZero&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DiFalls/turismo-dashboard-v5">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=turismo-dashboard-v5&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00F0FF&border_radius=12&show_owner=false" />
-  </a>
-</div>
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Difalls&repo=turismo-dashboard-v5&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41" />
+  </a><br/><br/>
 <!-- PROJECTS_END -->
   
 </div>
