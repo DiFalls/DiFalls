@@ -80,8 +80,6 @@
 <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=difalls&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true" />
 <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=difalls&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=6" />
 
-<img src="https://streak-stats.demolab.com?user=difalls&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41&hide_total_contributions=true" />
-
 </div>
 
 ---
